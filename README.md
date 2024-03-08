@@ -1,4 +1,4 @@
-# BeluRepository
+# Repository
 
-## Toni vol afegir bla bla bla
+## Compartido con Toni
 
